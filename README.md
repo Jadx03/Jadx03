@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jainam Dhruva
-- 👀 I’m interested in Software Engineering, Machine learning, Data Science, Numerical Analysis, and Combinatorics.
-- 🌱 I’m currently learning Python, Machine Learning, Algorithms and DS, and Applied Algebra.
+- 👀 I’m interested in Software Engineering, Machine learning, Data Science, Numerical Analysis, Applied Mathematics and Combinatorics.
+- 🌱 I’m currently learning Python, Databases, Point Cloud Library, Machine Learning, Algorithms and DS, and Applied Algebra.
 - 📫 How to reach me:
          Email: jainam.dhruva@uky.edu
          Linkedin: https://www.linkedin.com/in/jdhruva/
